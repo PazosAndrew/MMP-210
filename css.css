@@ -13,11 +13,3 @@ body {
   color: white;
 }
 
-.grid-container {
-  display: grid;
-  grid-template-columns: auto ;
-  grid-template-rows: auto;
-  background-color: #595959;
-  padding: 10px;
-  grid-gap: 10px;
-}
